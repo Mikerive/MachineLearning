@@ -1,0 +1,36 @@
+# Environment variables
+.env
+
+# API keys and secrets
+preprocessing/config/api_keys.json
+
+# Cache directories
+preprocessing/data/hud_cache/
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python virtual environment
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+*.log
+.DS_Store
+
+# Large files and data
+trained_models/*.pkl
+data/processed/*.csv
+data/raw/*.csv
+training_logs/

@@ -1,0 +1,44 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Jupyter/IPython
+*.ipynb_checkpoints/
+
+# Build/Installation
+dist/
+build/
+*.egg-info/
+*.manifest
+*.spec
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local environment files
+.env
+.env.local
+
+# OS artifacts
+.DS_Store
+Thumbs.db

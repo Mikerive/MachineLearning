@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.2.0
+scikit-learn==1.4.2  # Updated for Python 3.11
+matplotlib==3.8.2
+jupyter==1.0.0
+seaborn==0.13.2  # Added for visualization

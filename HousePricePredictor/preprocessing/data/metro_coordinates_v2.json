@@ -1,0 +1,207 @@
+{
+    "New York": {
+        "query": "New York City, NY, USA",
+        "employment": 10.1,
+        "weight": 1.0
+    },
+    "Los Angeles": {
+        "query": "Los Angeles, CA, USA",
+        "employment": 6.8,
+        "weight": 0.9
+    },
+    "Chicago": {
+        "query": "Chicago, IL, USA",
+        "employment": 4.9,
+        "weight": 0.85
+    },
+    "Dallas": {
+        "query": "Dallas, TX, USA",
+        "employment": 4.3,
+        "weight": 0.85
+    },
+    "Houston": {
+        "query": "Houston, TX, USA",
+        "employment": 3.5,
+        "weight": 0.8
+    },
+    "Washington DC": {
+        "query": "Washington, DC, USA",
+        "employment": 3.4,
+        "weight": 0.85
+    },
+    "Philadelphia": {
+        "query": "Philadelphia, PA, USA",
+        "employment": 3.1,
+        "weight": 0.75
+    },
+    "San Francisco": {
+        "query": "San Francisco, CA, USA",
+        "employment": 2.6,
+        "weight": 0.95
+    },
+    "Atlanta": {
+        "query": "Atlanta, GA, USA",
+        "employment": 3.0,
+        "weight": 0.8
+    },
+    "Boston": {
+        "query": "Boston, MA, USA",
+        "employment": 2.9,
+        "weight": 0.85
+    },
+    "Phoenix": {
+        "query": "Phoenix, AZ, USA",
+        "employment": 2.5,
+        "weight": 0.7
+    },
+    "Detroit": {
+        "query": "Detroit, MI, USA",
+        "employment": 2.2,
+        "weight": 0.65
+    },
+    "Seattle": {
+        "query": "Seattle, WA, USA",
+        "employment": 2.1,
+        "weight": 0.8
+    },
+    "Minneapolis": {
+        "query": "Minneapolis, MN, USA",
+        "employment": 2.1,
+        "weight": 0.7
+    },
+    "San Diego": {
+        "query": "San Diego, CA, USA",
+        "employment": 1.6,
+        "weight": 0.7
+    },
+    "Denver": {
+        "query": "Denver, CO, USA",
+        "employment": 1.7,
+        "weight": 0.7
+    },
+    "Baltimore": {
+        "query": "Baltimore, MD, USA",
+        "employment": 1.5,
+        "weight": 0.65
+    },
+    "Charlotte": {
+        "query": "Charlotte, NC, USA",
+        "employment": 1.4,
+        "weight": 0.7
+    },
+    "San Jose": {
+        "query": "San Jose, CA, USA",
+        "employment": 1.2,
+        "weight": 0.9
+    },
+    "Orlando": {
+        "query": "Orlando, FL, USA",
+        "employment": 1.4,
+        "weight": 0.65
+    },
+    "Portland": {
+        "query": "Portland, OR, USA",
+        "employment": 1.3,
+        "weight": 0.65
+    },
+    "Cincinnati": {
+        "query": "Cincinnati, OH, USA",
+        "employment": 1.2,
+        "weight": 0.6
+    },
+    "Kansas City": {
+        "query": "Kansas City, MO, USA",
+        "employment": 1.2,
+        "weight": 0.6
+    },
+    "Columbus": {
+        "query": "Columbus, OH, USA",
+        "employment": 1.2,
+        "weight": 0.6
+    },
+    "Indianapolis": {
+        "query": "Indianapolis, IN, USA",
+        "employment": 1.1,
+        "weight": 0.6
+    },
+    "Cleveland": {
+        "query": "Cleveland, OH, USA",
+        "employment": 1.1,
+        "weight": 0.6
+    },
+    "San Antonio": {
+        "query": "San Antonio, TX, USA",
+        "employment": 1.1,
+        "weight": 0.6
+    },
+    "Austin": {
+        "query": "Austin, TX, USA",
+        "employment": 1.3,
+        "weight": 0.75
+    },
+    "Virginia Beach": {
+        "query": "Virginia Beach, VA, USA",
+        "employment": 1.0,
+        "weight": 0.55
+    },
+    "Providence": {
+        "query": "Providence, RI, USA",
+        "employment": 0.9,
+        "weight": 0.55
+    },
+    "Jacksonville": {
+        "query": "Jacksonville, FL, USA",
+        "employment": 0.9,
+        "weight": 0.55
+    },
+    "Milwaukee": {
+        "query": "Milwaukee, WI, USA",
+        "employment": 0.9,
+        "weight": 0.55
+    },
+    "Oklahoma City": {
+        "query": "Oklahoma City, OK, USA",
+        "employment": 0.8,
+        "weight": 0.5
+    },
+    "Raleigh": {
+        "query": "Raleigh, NC, USA",
+        "employment": 0.8,
+        "weight": 0.65
+    },
+    "Memphis": {
+        "query": "Memphis, TN, USA",
+        "employment": 0.7,
+        "weight": 0.5
+    },
+    "Richmond": {
+        "query": "Richmond, VA, USA",
+        "employment": 0.7,
+        "weight": 0.5
+    },
+    "Louisville": {
+        "query": "Louisville, KY, USA",
+        "employment": 0.7,
+        "weight": 0.5
+    },
+    "Salt Lake City": {
+        "query": "Salt Lake City, UT, USA",
+        "employment": 0.8,
+        "weight": 0.6
+    },
+    "Buffalo": {
+        "query": "Buffalo, NY, USA",
+        "employment": 0.6,
+        "weight": 0.5
+    },
+    "Hartford": {
+        "query": "Hartford, CT, USA",
+        "employment": 0.6,
+        "weight": 0.5
+    },
+    "Birmingham": {
+        "query": "Birmingham, AL, USA",
+        "employment": 0.6,
+        "weight": 0.5
+    }
+}

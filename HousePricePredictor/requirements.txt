@@ -1,0 +1,24 @@
+scikit-learn==1.4.2
+pandas==2.2.0
+numpy==1.26.4
+matplotlib==3.8.2
+joblib==1.3.2
+seaborn==0.13.2
+geopy>=2.4.1
+tqdm>=4.65.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.23.0  # For better performance
+statsmodels>=0.14.1
+torch>=2.2.0
+
+# API and Data Handling
+requests>=2.31.0
+PyJWT>=2.8.0
+python-dotenv>=1.0.0
+
+# Data Processing
+# pandas>=2.1.0
+# numpy>=1.24.0
+
+# Geographic Data
+# geopy>=2.4.0

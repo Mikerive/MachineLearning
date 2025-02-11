@@ -1,0 +1,330 @@
+{
+    "New York": {
+        "coordinates": [
+            40.7127281,
+            -74.0060152
+        ],
+        "weight": 1.0,
+        "employment": 10.1
+    },
+    "Los Angeles": {
+        "coordinates": [
+            34.0536909,
+            -118.242766
+        ],
+        "weight": 0.9,
+        "employment": 6.8
+    },
+    "Chicago": {
+        "coordinates": [
+            41.8755616,
+            -87.6244212
+        ],
+        "weight": 0.85,
+        "employment": 4.9
+    },
+    "Dallas": {
+        "coordinates": [
+            32.7762719,
+            -96.7968559
+        ],
+        "weight": 0.85,
+        "employment": 4.3
+    },
+    "Houston": {
+        "coordinates": [
+            29.7589382,
+            -95.3676974
+        ],
+        "weight": 0.8,
+        "employment": 3.5
+    },
+    "Washington DC": {
+        "coordinates": [
+            38.8950368,
+            -77.0365427
+        ],
+        "weight": 0.85,
+        "employment": 3.4
+    },
+    "Philadelphia": {
+        "coordinates": [
+            39.9527237,
+            -75.1635262
+        ],
+        "weight": 0.75,
+        "employment": 3.1
+    },
+    "San Francisco": {
+        "coordinates": [
+            37.7792588,
+            -122.4193286
+        ],
+        "weight": 0.95,
+        "employment": 2.6
+    },
+    "Atlanta": {
+        "coordinates": [
+            33.7489924,
+            -84.3902644
+        ],
+        "weight": 0.8,
+        "employment": 3.0
+    },
+    "Boston": {
+        "coordinates": [
+            42.3554334,
+            -71.060511
+        ],
+        "weight": 0.85,
+        "employment": 2.9
+    },
+    "Phoenix": {
+        "coordinates": [
+            33.4484367,
+            -112.074141
+        ],
+        "weight": 0.7,
+        "employment": 2.5
+    },
+    "Detroit": {
+        "coordinates": [
+            42.3315509,
+            -83.0466403
+        ],
+        "weight": 0.65,
+        "employment": 2.2
+    },
+    "Seattle": {
+        "coordinates": [
+            47.6038321,
+            -122.330062
+        ],
+        "weight": 0.8,
+        "employment": 2.1
+    },
+    "Minneapolis": {
+        "coordinates": [
+            44.9772995,
+            -93.2654692
+        ],
+        "weight": 0.7,
+        "employment": 2.1
+    },
+    "San Diego": {
+        "coordinates": [
+            32.7174202,
+            -117.162772
+        ],
+        "weight": 0.7,
+        "employment": 1.6
+    },
+    "Denver": {
+        "coordinates": [
+            39.7392364,
+            -104.984862
+        ],
+        "weight": 0.7,
+        "employment": 1.7
+    },
+    "Baltimore": {
+        "coordinates": [
+            39.2908816,
+            -76.610759
+        ],
+        "weight": 0.65,
+        "employment": 1.5
+    },
+    "Charlotte": {
+        "coordinates": [
+            35.2272086,
+            -80.8430827
+        ],
+        "weight": 0.7,
+        "employment": 1.4
+    },
+    "San Jose": {
+        "coordinates": [
+            37.3361663,
+            -121.890591
+        ],
+        "weight": 0.9,
+        "employment": 1.2
+    },
+    "Orlando": {
+        "coordinates": [
+            28.5421109,
+            -81.3790304
+        ],
+        "weight": 0.65,
+        "employment": 1.4
+    },
+    "Portland": {
+        "coordinates": [
+            45.5202471,
+            -122.674194
+        ],
+        "weight": 0.65,
+        "employment": 1.3
+    },
+    "Cincinnati": {
+        "coordinates": [
+            39.1014537,
+            -84.5124602
+        ],
+        "weight": 0.6,
+        "employment": 1.2
+    },
+    "Kansas City": {
+        "coordinates": [
+            39.100105,
+            -94.5781416
+        ],
+        "weight": 0.6,
+        "employment": 1.2
+    },
+    "Columbus": {
+        "coordinates": [
+            39.9622601,
+            -83.0007065
+        ],
+        "weight": 0.6,
+        "employment": 1.2
+    },
+    "Indianapolis": {
+        "coordinates": [
+            39.7683331,
+            -86.1583502
+        ],
+        "weight": 0.6,
+        "employment": 1.1
+    },
+    "Cleveland": {
+        "coordinates": [
+            41.4996574,
+            -81.6936772
+        ],
+        "weight": 0.6,
+        "employment": 1.1
+    },
+    "San Antonio": {
+        "coordinates": [
+            29.4246002,
+            -98.4951405
+        ],
+        "weight": 0.6,
+        "employment": 1.1
+    },
+    "Austin": {
+        "coordinates": [
+            30.2711286,
+            -97.7436995
+        ],
+        "weight": 0.75,
+        "employment": 1.3
+    },
+    "Virginia Beach": {
+        "coordinates": [
+            36.8496579,
+            -75.9760751
+        ],
+        "weight": 0.55,
+        "employment": 1.0
+    },
+    "Providence": {
+        "coordinates": [
+            41.8239891,
+            -71.4128343
+        ],
+        "weight": 0.55,
+        "employment": 0.9
+    },
+    "Jacksonville": {
+        "coordinates": [
+            30.3321838,
+            -81.655651
+        ],
+        "weight": 0.55,
+        "employment": 0.9
+    },
+    "Milwaukee": {
+        "coordinates": [
+            43.0386475,
+            -87.9090751
+        ],
+        "weight": 0.55,
+        "employment": 0.9
+    },
+    "Oklahoma City": {
+        "coordinates": [
+            35.4729886,
+            -97.5170536
+        ],
+        "weight": 0.5,
+        "employment": 0.8
+    },
+    "Raleigh": {
+        "coordinates": [
+            35.7803977,
+            -78.6390989
+        ],
+        "weight": 0.65,
+        "employment": 0.8
+    },
+    "Memphis": {
+        "coordinates": [
+            35.1460249,
+            -90.0517638
+        ],
+        "weight": 0.5,
+        "employment": 0.7
+    },
+    "Richmond": {
+        "coordinates": [
+            37.5385087,
+            -77.43428
+        ],
+        "weight": 0.5,
+        "employment": 0.7
+    },
+    "Louisville": {
+        "coordinates": [
+            38.2542376,
+            -85.759407
+        ],
+        "weight": 0.5,
+        "employment": 0.7
+    },
+    "Salt Lake City": {
+        "coordinates": [
+            40.7596198,
+            -111.886797
+        ],
+        "weight": 0.6,
+        "employment": 0.8
+    },
+    "Buffalo": {
+        "coordinates": [
+            42.8867166,
+            -78.8783922
+        ],
+        "weight": 0.5,
+        "employment": 0.6
+    },
+    "Hartford": {
+        "coordinates": [
+            41.764582,
+            -72.6908547
+        ],
+        "weight": 0.5,
+        "employment": 0.6
+    },
+    "Birmingham": {
+        "coordinates": [
+            33.5206824,
+            -86.8024326
+        ],
+        "weight": 0.5,
+        "employment": 0.6
+    }
+}

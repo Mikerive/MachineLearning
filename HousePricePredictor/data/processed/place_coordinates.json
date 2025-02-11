@@ -1,0 +1,1438 @@
+{
+  "Mountain Division": {
+    "latitude": 43.68441588689462,
+    "longitude": -70.36034203698193
+  },
+  "South Atlantic Division": {
+    "latitude": 33.7536855,
+    "longitude": -84.3925379
+  },
+  "West North Central Division": {
+    "latitude": 28.5419226,
+    "longitude": -81.385961
+  },
+  "West South Central Division": {
+    "latitude": 28.5416311,
+    "longitude": -81.3850588
+  },
+  "United States": {
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  "Abilene, TX": {
+    "latitude": 32.44645,
+    "longitude": -99.7475905
+  },
+  "Akron, OH": {
+    "latitude": 41.083064,
+    "longitude": -81.518485
+  },
+  "Albany, GA": {
+    "latitude": 31.5782062,
+    "longitude": -84.1556809
+  },
+  "Albany-Lebanon, OR": {
+    "latitude": 44.54563357215483,
+    "longitude": -122.89903760396932
+  },
+  "Albany-Schenectady-Troy, NY": {
+    "latitude": 42.75578055,
+    "longitude": -73.7741253000329
+  },
+  "Albuquerque, NM": {
+    "latitude": 35.0841034,
+    "longitude": -106.650985
+  },
+  "Alexandria, LA": {
+    "latitude": 31.3119463,
+    "longitude": -92.4453558
+  },
+  "Altoona, PA": {
+    "latitude": 40.5193586,
+    "longitude": -78.3968299
+  },
+  "Amarillo, TX": {
+    "latitude": 35.20729,
+    "longitude": -101.8371192
+  },
+  "Ames, IA": {
+    "latitude": 42.0267567,
+    "longitude": -93.6170448
+  },
+  "Anchorage, AK": {
+    "latitude": 61.2163129,
+    "longitude": -149.894852
+  },
+  "Ann Arbor, MI": {
+    "latitude": 42.2813722,
+    "longitude": -83.7484616
+  },
+  "Anniston-Oxford, AL": {
+    "latitude": 33.61288235,
+    "longitude": -85.78822816686258
+  },
+  "Appleton, WI": {
+    "latitude": 44.2613967,
+    "longitude": -88.4069744
+  },
+  "Asheville, NC": {
+    "latitude": 35.595363,
+    "longitude": -82.5508407
+  },
+  "Athens-Clarke County, GA": {
+    "latitude": 33.9418919,
+    "longitude": -83.4500546
+  },
+  "Atlantic City-Hammonton, NJ": {
+    "latitude": 39.601285327542705,
+    "longitude": -74.80925375533073
+  },
+  "Auburn-Opelika, AL": {
+    "latitude": 32.6118107,
+    "longitude": -85.43694166226194
+  },
+  "Bakersfield, CA": {
+    "latitude": 35.3738712,
+    "longitude": -119.019463
+  },
+  "Bangor, ME": {
+    "latitude": 44.8016255,
+    "longitude": -68.7713289
+  },
+  "Barnstable Town, MA": {
+    "latitude": 41.6514957,
+    "longitude": -70.28259620086317
+  },
+  "Baton Rouge, LA": {
+    "latitude": 30.4494155,
+    "longitude": -91.1869659
+  },
+  "Battle Creek, MI": {
+    "latitude": 42.3192548,
+    "longitude": -85.1824269
+  },
+  "Bay City, MI": {
+    "latitude": 43.5944677,
+    "longitude": -83.8888648
+  },
+  "Beaumont-Port Arthur, TX": {
+    "latitude": 29.945972788176608,
+    "longitude": -93.9743616382256
+  },
+  "Beckley, WV": {
+    "latitude": 37.7781702,
+    "longitude": -81.1881557
+  },
+  "Bellingham, WA": {
+    "latitude": 48.7544012,
+    "longitude": -122.478836
+  },
+  "Bend, OR": {
+    "latitude": 44.0581728,
+    "longitude": -121.3153096
+  },
+  "Billings, MT": {
+    "latitude": 45.7874957,
+    "longitude": -108.49607
+  },
+  "Binghamton, NY": {
+    "latitude": 42.098698,
+    "longitude": -75.9125187
+  },
+  "Birmingham-Hoover, AL": {
+    "latitude": 33.362913500000005,
+    "longitude": -86.82832937707872
+  },
+  "Bismarck, ND": {
+    "latitude": 46.808327,
+    "longitude": -100.783739
+  },
+  "Blacksburg-Christiansburg, VA": {
+    "latitude": 37.137885749999995,
+    "longitude": -80.35897901452898
+  },
+  "Bloomington, IL": {
+    "latitude": 40.4797828,
+    "longitude": -88.9939147
+  },
+  "Bloomington, IN": {
+    "latitude": 39.1670396,
+    "longitude": -86.5342881
+  },
+  "Bloomsburg-Berwick, PA": {
+    "latitude": 41.0137068,
+    "longitude": -76.40659383923
+  },
+  "Boise City, ID": {
+    "latitude": 43.6166163,
+    "longitude": -116.200886
+  },
+  "Boulder, CO": {
+    "latitude": 40.0149856,
+    "longitude": -105.270545
+  },
+  "Bowling Green, KY": {
+    "latitude": 36.9903199,
+    "longitude": -86.4436018
+  },
+  "Brownsville-Harlingen, TX": {
+    "latitude": 25.9738093,
+    "longitude": -97.5098892
+  },
+  "Brunswick, GA": {
+    "latitude": 31.1499528,
+    "longitude": -81.4914894
+  },
+  "Burlington, NC": {
+    "latitude": 36.0956918,
+    "longitude": -79.4377991
+  },
+  "Burlington-South Burlington, VT": {
+    "latitude": 44.4671635,
+    "longitude": -73.1715669
+  },
+  "California-Lexington Park, MD": {
+    "latitude": 38.2974855,
+    "longitude": -76.49336475677474
+  },
+  "Cape Coral-Fort Myers, FL": {
+    "latitude": 26.5640011,
+    "longitude": -81.96045738661337
+  },
+  "Carson City, NV": {
+    "latitude": 39.1663259,
+    "longitude": -119.7670374
+  },
+  "Casper, WY": {
+    "latitude": 42.8501191,
+    "longitude": -106.325138
+  },
+  "Cedar Rapids, IA": {
+    "latitude": 41.9758872,
+    "longitude": -91.6704053
+  },
+  "Champaign-Urbana, IL": {
+    "latitude": 40.1157948,
+    "longitude": -88.241194
+  },
+  "Charleston, WV": {
+    "latitude": 38.3505995,
+    "longitude": -81.6332812
+  },
+  "Charleston-North Charleston, SC": {
+    "latitude": 32.8546197,
+    "longitude": -79.9748103
+  },
+  "Charlottesville, VA": {
+    "latitude": 38.029306,
+    "longitude": -78.4766781
+  },
+  "Chattanooga, TN-GA": {
+    "latitude": 34.93021,
+    "longitude": -85.343951
+  },
+  "Cheyenne, WY": {
+    "latitude": 41.139981,
+    "longitude": -104.820246
+  },
+  "Chico, CA": {
+    "latitude": 39.7284945,
+    "longitude": -121.8374777
+  },
+  "Clarksville, TN-KY": {
+    "latitude": 36.68373727562121,
+    "longitude": -87.29182286360417
+  },
+  "Cleveland, TN": {
+    "latitude": 35.1595182,
+    "longitude": -84.8766115
+  },
+  "Cleveland-Elyria, OH": {
+    "latitude": 41.3912498,
+    "longitude": -82.1132584
+  },
+  "Coeur d'Alene, ID": {
+    "latitude": 47.6742994,
+    "longitude": -116.7811531
+  },
+  "College Station-Bryan, TX": {
+    "latitude": 30.605537599999998,
+    "longitude": -96.30824972164912
+  },
+  "Colorado Springs, CO": {
+    "latitude": 38.8339578,
+    "longitude": -104.825348
+  },
+  "Columbia, MO": {
+    "latitude": 38.951883,
+    "longitude": -92.3337366
+  },
+  "Columbia, SC": {
+    "latitude": 34.000754,
+    "longitude": -81.0352313
+  },
+  "Columbus, GA-AL": {
+    "latitude": 33.7581569,
+    "longitude": -86.7533259
+  },
+  "Columbus, IN": {
+    "latitude": 39.2014405,
+    "longitude": -85.9213796
+  },
+  "Columbus, OH": {
+    "latitude": 39.9622601,
+    "longitude": -83.0007065
+  },
+  "Corpus Christi, TX": {
+    "latitude": 27.7635302,
+    "longitude": -97.4033191
+  },
+  "Corvallis, OR": {
+    "latitude": 44.5645659,
+    "longitude": -123.2620435
+  },
+  "Dalton, GA": {
+    "latitude": 34.7691867,
+    "longitude": -84.9702475
+  },
+  "Danville, IL": {
+    "latitude": 40.125222,
+    "longitude": -87.6304614
+  },
+  "Dayton-Kettering, OH": {
+    "latitude": 39.68820269538669,
+    "longitude": -84.13582751219363
+  },
+  "Decatur, AL": {
+    "latitude": 34.6060203,
+    "longitude": -86.9838165
+  },
+  "Decatur, IL": {
+    "latitude": 39.8454163,
+    "longitude": -88.9524151
+  },
+  "Des Moines-West Des Moines, IA": {
+    "latitude": 41.5938402,
+    "longitude": -93.81857764723546
+  },
+  "Dothan, AL": {
+    "latitude": 31.2237285,
+    "longitude": -85.3934375
+  },
+  "Dover, DE": {
+    "latitude": 39.158168,
+    "longitude": -75.5243682
+  },
+  "Dubuque, IA": {
+    "latitude": 42.5006243,
+    "longitude": -90.6647985
+  },
+  "Duluth, MN-WI": {
+    "latitude": 42.976055302916066,
+    "longitude": -88.00475920234452
+  },
+  "Durham-Chapel Hill, NC": {
+    "latitude": 35.79160541601168,
+    "longitude": -78.78216735428857
+  },
+  "East Stroudsburg, PA": {
+    "latitude": 40.9995386,
+    "longitude": -75.1812913
+  },
+  "Eau Claire, WI": {
+    "latitude": 44.811349,
+    "longitude": -91.4984941
+  },
+  "El Centro, CA": {
+    "latitude": 32.792,
+    "longitude": -115.563051
+  },
+  "Elkhart-Goshen, IN": {
+    "latitude": 41.5451402,
+    "longitude": -85.7796412
+  },
+  "Elmira, NY": {
+    "latitude": 42.0897965,
+    "longitude": -76.8077338
+  },
+  "El Paso, TX": {
+    "latitude": 31.7601164,
+    "longitude": -106.4870404
+  },
+  "Enid, OK": {
+    "latitude": 36.3967623,
+    "longitude": -97.8791341
+  },
+  "Erie, PA": {
+    "latitude": 42.1294712,
+    "longitude": -80.0852695
+  },
+  "Eugene-Springfield, OR": {
+    "latitude": 44.0553238,
+    "longitude": -123.09253537848451
+  },
+  "Fairbanks, AK": {
+    "latitude": 64.837845,
+    "longitude": -147.716675
+  },
+  "Fargo, ND-MN": {
+    "latitude": 46.831730492862576,
+    "longitude": -96.7914886055084
+  },
+  "Farmington, NM": {
+    "latitude": 36.7291152,
+    "longitude": -108.205445
+  },
+  "Fayetteville, NC": {
+    "latitude": 35.0525759,
+    "longitude": -78.878292
+  },
+  "Flagstaff, AZ": {
+    "latitude": 35.1987522,
+    "longitude": -111.651822
+  },
+  "Flint, MI": {
+    "latitude": 43.0161693,
+    "longitude": -83.6900211
+  },
+  "Florence, SC": {
+    "latitude": 34.1984435,
+    "longitude": -79.7671658
+  },
+  "Florence-Muscle Shoals, AL": {
+    "latitude": 34.830621,
+    "longitude": -87.63201922602904
+  },
+  "Fond du Lac, WI": {
+    "latitude": 43.7533414,
+    "longitude": -88.4493796
+  },
+  "Fort Collins, CO": {
+    "latitude": 40.5871782,
+    "longitude": -105.0770113
+  },
+  "Fort Wayne, IN": {
+    "latitude": 41.0799898,
+    "longitude": -85.1386015
+  },
+  "Fresno, CA": {
+    "latitude": 36.7394421,
+    "longitude": -119.78483
+  },
+  "Gadsden, AL": {
+    "latitude": 34.0128323,
+    "longitude": -86.0030251
+  },
+  "Gainesville, FL": {
+    "latitude": 29.6519684,
+    "longitude": -82.3249846
+  },
+  "Gainesville, GA": {
+    "latitude": 34.2978794,
+    "longitude": -83.8240663
+  },
+  "Gettysburg, PA": {
+    "latitude": 39.8308973,
+    "longitude": -77.231012
+  },
+  "Glens Falls, NY": {
+    "latitude": 43.309941,
+    "longitude": -73.644447
+  },
+  "Goldsboro, NC": {
+    "latitude": 35.3848841,
+    "longitude": -77.9927651
+  },
+  "Grand Forks, ND-MN": {
+    "latitude": 47.9317013,
+    "longitude": -97.0175792
+  },
+  "Grand Island, NE": {
+    "latitude": 40.924271,
+    "longitude": -98.338685
+  },
+  "Grand Junction, CO": {
+    "latitude": 39.0672568,
+    "longitude": -108.56448
+  },
+  "Grand Rapids-Kentwood, MI": {
+    "latitude": 42.9097648,
+    "longitude": -85.57432427255785
+  },
+  "Grants Pass, OR": {
+    "latitude": 42.4393707,
+    "longitude": -123.3272489
+  },
+  "Great Falls, MT": {
+    "latitude": 47.5048851,
+    "longitude": -111.29189
+  },
+  "Greeley, CO": {
+    "latitude": 40.4233142,
+    "longitude": -104.7091322
+  },
+  "Green Bay, WI": {
+    "latitude": 44.5126379,
+    "longitude": -88.0125794
+  },
+  "Greensboro-High Point, NC": {
+    "latitude": 36.0857928,
+    "longitude": -79.96555008306188
+  },
+  "Greenville, NC": {
+    "latitude": 35.613224,
+    "longitude": -77.3724593
+  },
+  "Greenville-Anderson, SC": {
+    "latitude": 34.616712,
+    "longitude": -82.47470036964478
+  },
+  "Gulfport-Biloxi, MS": {
+    "latitude": 30.40711375,
+    "longitude": -89.07143302103171
+  },
+  "Hammond, LA": {
+    "latitude": 30.5043583,
+    "longitude": -90.4611995
+  },
+  "Harrisburg-Carlisle, PA": {
+    "latitude": 40.21251495,
+    "longitude": -77.17860675
+  },
+  "Harrisonburg, VA": {
+    "latitude": 38.4493315,
+    "longitude": -78.8688833
+  },
+  "Hattiesburg, MS": {
+    "latitude": 31.3271189,
+    "longitude": -89.2903392
+  },
+  "Hilton Head Island-Bluffton, SC": {
+    "latitude": 32.27068705,
+    "longitude": -80.86173033551367
+  },
+  "Hinesville, GA": {
+    "latitude": 31.8477347,
+    "longitude": -81.5960705
+  },
+  "Homosassa Springs, FL": {
+    "latitude": 28.8035939,
+    "longitude": -82.5759329
+  },
+  "Hot Springs, AR": {
+    "latitude": 34.5038393,
+    "longitude": -93.0552437
+  },
+  "Houma-Thibodaux, LA": {
+    "latitude": 29.64662535,
+    "longitude": -90.81647520997512
+  },
+  "Huntsville, AL": {
+    "latitude": 34.729847,
+    "longitude": -86.5859011
+  },
+  "Idaho Falls, ID": {
+    "latitude": 43.4887907,
+    "longitude": -112.03628
+  },
+  "Iowa City, IA": {
+    "latitude": 41.6612561,
+    "longitude": -91.5299106
+  },
+  "Ithaca, NY": {
+    "latitude": 42.437417499999995,
+    "longitude": -76.54837235139263
+  },
+  "Jackson, MI": {
+    "latitude": 42.2416466,
+    "longitude": -84.425589
+  },
+  "Jackson, MS": {
+    "latitude": 32.2998686,
+    "longitude": -90.1830408
+  },
+  "Jackson, TN": {
+    "latitude": 35.6144446,
+    "longitude": -88.8177418
+  },
+  "Jacksonville, FL": {
+    "latitude": 30.3321838,
+    "longitude": -81.655651
+  },
+  "Jacksonville, NC": {
+    "latitude": 34.7494749,
+    "longitude": -77.4208221
+  },
+  "Janesville-Beloit, WI": {
+    "latitude": 42.7025807,
+    "longitude": -89.00652257520741
+  },
+  "Jefferson City, MO": {
+    "latitude": 38.577359,
+    "longitude": -92.1724265
+  },
+  "Johnson City, TN": {
+    "latitude": 36.3134398,
+    "longitude": -82.3534728
+  },
+  "Johnstown, PA": {
+    "latitude": 40.3267407,
+    "longitude": -78.9219698
+  },
+  "Jonesboro, AR": {
+    "latitude": 35.8272257,
+    "longitude": -90.6949871
+  },
+  "Joplin, MO": {
+    "latitude": 37.0841838,
+    "longitude": -94.5133385
+  },
+  "Kalamazoo-Portage, MI": {
+    "latitude": 42.24591065,
+    "longitude": -85.56362705774816
+  },
+  "Kankakee, IL": {
+    "latitude": 41.1253903,
+    "longitude": -87.848682
+  },
+  "Kansas City, MO-KS": {
+    "latitude": 38.94231585,
+    "longitude": -94.60607524663884
+  },
+  "Kennewick-Richland, WA": {
+    "latitude": 46.1736015,
+    "longitude": -119.0664001
+  },
+  "Kingston, NY": {
+    "latitude": 41.9268104,
+    "longitude": -73.99526951219678
+  },
+  "Knoxville, TN": {
+    "latitude": 35.9603948,
+    "longitude": -83.9210261
+  },
+  "Kokomo, IN": {
+    "latitude": 40.4864444,
+    "longitude": -86.1336351
+  },
+  "Lafayette, LA": {
+    "latitude": 30.2262187,
+    "longitude": -92.0178202
+  },
+  "Lafayette-West Lafayette, IN": {
+    "latitude": 40.4258686,
+    "longitude": -86.9080655
+  },
+  "Lake Charles, LA": {
+    "latitude": 30.2305095,
+    "longitude": -93.2169807
+  },
+  "Lancaster, PA": {
+    "latitude": 40.0379958,
+    "longitude": -76.3056707
+  },
+  "Lansing-East Lansing, MI": {
+    "latitude": 42.7320307,
+    "longitude": -84.4721678
+  },
+  "Laredo, TX": {
+    "latitude": 27.5075005,
+    "longitude": -99.5069922
+  },
+  "Las Cruces, NM": {
+    "latitude": 32.3140354,
+    "longitude": -106.779807
+  },
+  "Las Vegas-Henderson-Paradise, NV": {
+    "latitude": 36.0234665,
+    "longitude": -115.10061095
+  },
+  "Lawrence, KS": {
+    "latitude": 38.9719137,
+    "longitude": -95.2359403
+  },
+  "Lawton, OK": {
+    "latitude": 34.6086854,
+    "longitude": -98.3903305
+  },
+  "Lebanon, PA": {
+    "latitude": 40.375713,
+    "longitude": -76.4626118
+  },
+  "Lewiston, ID-WA": {
+    "latitude": 46.161859319201675,
+    "longitude": -118.15111725323128
+  },
+  "Lewiston-Auburn, ME": {
+    "latitude": 44.04808285,
+    "longitude": -70.28316628451043
+  },
+  "Lexington-Fayette, KY": {
+    "latitude": 38.0464066,
+    "longitude": -84.4970393
+  },
+  "Lima, OH": {
+    "latitude": 40.7399785,
+    "longitude": -84.105006
+  },
+  "Lincoln, NE": {
+    "latitude": 40.8088861,
+    "longitude": -96.7077751
+  },
+  "Longview, TX": {
+    "latitude": 32.5007031,
+    "longitude": -94.74049
+  },
+  "Longview, WA": {
+    "latitude": 46.1377048,
+    "longitude": -122.934462
+  },
+  "Lubbock, TX": {
+    "latitude": 33.5855677,
+    "longitude": -101.8470215
+  },
+  "Lynchburg, VA": {
+    "latitude": 37.4137536,
+    "longitude": -79.1422464
+  },
+  "Macon-Bibb County, GA": {
+    "latitude": 32.8406946,
+    "longitude": -83.6324022
+  },
+  "Madera, CA": {
+    "latitude": 37.1716264,
+    "longitude": -119.7737991
+  },
+  "Madison, WI": {
+    "latitude": 43.074761,
+    "longitude": -89.3837613
+  },
+  "Manchester-Nashua, NH": {
+    "latitude": 42.769461327512616,
+    "longitude": -71.46864599253576
+  },
+  "Manhattan, KS": {
+    "latitude": 39.1836082,
+    "longitude": -96.5716694
+  },
+  "Mankato, MN": {
+    "latitude": 44.1634663,
+    "longitude": -93.9993505
+  },
+  "Mansfield, OH": {
+    "latitude": 40.75839,
+    "longitude": -82.5154471
+  },
+  "Medford, OR": {
+    "latitude": 42.3264181,
+    "longitude": -122.8718605
+  },
+  "Merced, CA": {
+    "latitude": 37.1641544,
+    "longitude": -120.7678602
+  },
+  "Michigan City-La Porte, IN": {
+    "latitude": 41.7099264,
+    "longitude": -86.8946587
+  },
+  "Midland, MI": {
+    "latitude": 43.6155825,
+    "longitude": -84.2472117
+  },
+  "Midland, TX": {
+    "latitude": 31.83688,
+    "longitude": -102.0103767
+  },
+  "Milwaukee-Waukesha, WI": {
+    "latitude": 43.027490650000004,
+    "longitude": -88.26839974564228
+  },
+  "Missoula, MT": {
+    "latitude": 46.8701049,
+    "longitude": -113.995267
+  },
+  "Mobile, AL": {
+    "latitude": 30.6913462,
+    "longitude": -88.0437509
+  },
+  "Modesto, CA": {
+    "latitude": 37.6393419,
+    "longitude": -120.9968892
+  },
+  "Monroe, LA": {
+    "latitude": 32.5025471,
+    "longitude": -92.116219
+  },
+  "Monroe, MI": {
+    "latitude": 41.9153358,
+    "longitude": -83.5135665
+  },
+  "Montgomery, AL": {
+    "latitude": 32.37742,
+    "longitude": -86.3091683
+  },
+  "Morgantown, WV": {
+    "latitude": 39.6296809,
+    "longitude": -79.9559437
+  },
+  "Morristown, TN": {
+    "latitude": 36.2139814,
+    "longitude": -83.2948923
+  },
+  "Muncie, IN": {
+    "latitude": 40.1936892,
+    "longitude": -85.3865271
+  },
+  "Muskegon, MI": {
+    "latitude": 43.2341813,
+    "longitude": -86.2483921
+  },
+  "Napa, CA": {
+    "latitude": 38.4898675,
+    "longitude": -122.3218414
+  },
+  "Naples-Marco Island, FL": {
+    "latitude": 26.06825765,
+    "longitude": -81.69837727006191
+  },
+  "New Bern, NC": {
+    "latitude": 35.1084931,
+    "longitude": -77.0441143
+  },
+  "New Orleans-Metairie, LA": {
+    "latitude": 30.0183193,
+    "longitude": -90.15568406121892
+  },
+  "Niles, MI": {
+    "latitude": 41.8297694,
+    "longitude": -86.2541768
+  },
+  "Norwich-New London, CT": {
+    "latitude": 41.5300962,
+    "longitude": -72.0896919
+  },
+  "Ocala, FL": {
+    "latitude": 29.1871986,
+    "longitude": -82.1400923
+  },
+  "Ocean City, NJ": {
+    "latitude": 39.2776156,
+    "longitude": -74.5746001
+  },
+  "Odessa, TX": {
+    "latitude": 31.8457149,
+    "longitude": -102.367687
+  },
+  "Oklahoma City, OK": {
+    "latitude": 35.4729886,
+    "longitude": -97.5170536
+  },
+  "Omaha-Council Bluffs, NE-IA": {
+    "latitude": 41.21796297494803,
+    "longitude": -95.82386038572977
+  },
+  "Owensboro, KY": {
+    "latitude": 37.7742152,
+    "longitude": -87.1133304
+  },
+  "Panama City, FL": {
+    "latitude": 30.1586518,
+    "longitude": -85.6602936
+  },
+  "Pensacola-Ferry Pass-Brent, FL": {
+    "latitude": 30.4878656,
+    "longitude": -87.2245765819797
+  },
+  "Peoria, IL": {
+    "latitude": 40.6938609,
+    "longitude": -89.5891008
+  },
+  "Phoenix-Mesa-Chandler, AZ": {
+    "latitude": 33.38486245,
+    "longitude": -111.84109601870159
+  },
+  "Pine Bluff, AR": {
+    "latitude": 34.2228884,
+    "longitude": -92.004334
+  },
+  "Pittsburgh, PA": {
+    "latitude": 40.4416941,
+    "longitude": -79.9900861
+  },
+  "Pittsfield, MA": {
+    "latitude": 42.4484778,
+    "longitude": -73.2541069
+  },
+  "Pocatello, ID": {
+    "latitude": 42.8620287,
+    "longitude": -112.450627
+  },
+  "Portland-South Portland, ME": {
+    "latitude": 43.6382443,
+    "longitude": -70.2529189
+  },
+  "Port St. Lucie, FL": {
+    "latitude": 27.2939333,
+    "longitude": -80.3503283
+  },
+  "Prescott Valley-Prescott, AZ": {
+    "latitude": 34.5950776,
+    "longitude": -112.3338634
+  },
+  "Providence-Warwick, RI-MA": {
+    "latitude": 41.722151499999995,
+    "longitude": -71.44606075643354
+  },
+  "Provo-Orem, UT": {
+    "latitude": 40.2636178,
+    "longitude": -111.6702675
+  },
+  "Pueblo, CO": {
+    "latitude": 38.263995,
+    "longitude": -104.6141867
+  },
+  "Punta Gorda, FL": {
+    "latitude": 26.9351529,
+    "longitude": -82.0512058
+  },
+  "Racine, WI": {
+    "latitude": 42.7313756,
+    "longitude": -87.7834769
+  },
+  "Raleigh-Cary, NC": {
+    "latitude": 35.789645199999995,
+    "longitude": -78.74370750940764
+  },
+  "Rapid City, SD": {
+    "latitude": 44.0806041,
+    "longitude": -103.228023
+  },
+  "Reading, PA": {
+    "latitude": 40.335345,
+    "longitude": -75.9279495
+  },
+  "Redding, CA": {
+    "latitude": 40.5863563,
+    "longitude": -122.391675
+  },
+  "Reno, NV": {
+    "latitude": 39.5261206,
+    "longitude": -119.8126581
+  },
+  "Richmond, VA": {
+    "latitude": 37.5385087,
+    "longitude": -77.43428
+  },
+  "Roanoke, VA": {
+    "latitude": 37.270973,
+    "longitude": -79.9414313
+  },
+  "Rochester, MN": {
+    "latitude": 44.0234387,
+    "longitude": -92.4630182
+  },
+  "Rochester, NY": {
+    "latitude": 43.157285,
+    "longitude": -77.615214
+  },
+  "Rockford, IL": {
+    "latitude": 42.2713945,
+    "longitude": -89.093966
+  },
+  "Rocky Mount, NC": {
+    "latitude": 35.9423833,
+    "longitude": -77.7956949
+  },
+  "Rome, GA": {
+    "latitude": 34.257038,
+    "longitude": -85.1646726
+  },
+  "Saginaw, MI": {
+    "latitude": 43.4200387,
+    "longitude": -83.9490365
+  },
+  "St. Cloud, MN": {
+    "latitude": 45.5616075,
+    "longitude": -94.1642004
+  },
+  "St. George, UT": {
+    "latitude": 37.104153,
+    "longitude": -113.584131
+  },
+  "Salem, OR": {
+    "latitude": 44.9391565,
+    "longitude": -123.033121
+  },
+  "Salinas, CA": {
+    "latitude": 36.6744117,
+    "longitude": -121.655037
+  },
+  "Salisbury, MD-DE": {
+    "latitude": 39.24119573477036,
+    "longitude": -76.4526815535927
+  },
+  "Salt Lake City, UT": {
+    "latitude": 40.7596198,
+    "longitude": -111.886797
+  },
+  "San Angelo, TX": {
+    "latitude": 31.4649685,
+    "longitude": -100.4405094
+  },
+  "San Antonio-New Braunfels, TX": {
+    "latitude": 29.7341896,
+    "longitude": -98.0737843
+  },
+  "San Jose-Sunnyvale-Santa Clara, CA": {
+    "latitude": 37.4079318,
+    "longitude": -122.00864396680362
+  },
+  "San Luis Obispo-Paso Robles, CA": {
+    "latitude": 35.5814197,
+    "longitude": -120.69547497874464
+  },
+  "Santa Cruz-Watsonville, CA": {
+    "latitude": 36.93098775,
+    "longitude": -121.79209485
+  },
+  "Santa Fe, NM": {
+    "latitude": 35.6876096,
+    "longitude": -105.938456
+  },
+  "Santa Maria-Santa Barbara, CA": {
+    "latitude": 34.9531295,
+    "longitude": -120.435857
+  },
+  "Santa Rosa-Petaluma, CA": {
+    "latitude": 38.268290699999994,
+    "longitude": -122.63486550344254
+  },
+  "Savannah, GA": {
+    "latitude": 32.0790074,
+    "longitude": -81.0921335
+  },
+  "Scranton--Wilkes-Barre, PA": {
+    "latitude": 41.33709205,
+    "longitude": -75.72257122928625
+  },
+  "Sebring-Avon Park, FL": {
+    "latitude": 27.56125985,
+    "longitude": -81.51070709680336
+  },
+  "Sheboygan, WI": {
+    "latitude": 43.7128967,
+    "longitude": -87.9370433
+  },
+  "Sherman-Denison, TX": {
+    "latitude": 33.7228689,
+    "longitude": -96.55398844676102
+  },
+  "Shreveport-Bossier City, LA": {
+    "latitude": 32.443701700000005,
+    "longitude": -93.87886552394068
+  },
+  "Sioux Falls, SD": {
+    "latitude": 43.5476008,
+    "longitude": -96.7293629
+  },
+  "Spartanburg, SC": {
+    "latitude": 34.9498007,
+    "longitude": -81.9320157
+  },
+  "Spokane-Spokane Valley, WA": {
+    "latitude": 47.6558471,
+    "longitude": -117.1978515
+  },
+  "Springfield, IL": {
+    "latitude": 39.7990175,
+    "longitude": -89.6439575
+  },
+  "Springfield, MA": {
+    "latitude": 42.1018764,
+    "longitude": -72.5886727
+  },
+  "Springfield, MO": {
+    "latitude": 37.2081729,
+    "longitude": -93.2922715
+  },
+  "Springfield, OH": {
+    "latitude": 39.9234046,
+    "longitude": -83.810138
+  },
+  "State College, PA": {
+    "latitude": 40.7944504,
+    "longitude": -77.8616386
+  },
+  "Staunton, VA": {
+    "latitude": 38.1495947,
+    "longitude": -79.072557
+  },
+  "Stockton, CA": {
+    "latitude": 37.9577016,
+    "longitude": -121.290779
+  },
+  "Sumter, SC": {
+    "latitude": 33.9204354,
+    "longitude": -80.3414693
+  },
+  "Syracuse, NY": {
+    "latitude": 43.0481221,
+    "longitude": -76.1474244
+  },
+  "Tallahassee, FL": {
+    "latitude": 30.4380832,
+    "longitude": -84.2809332
+  },
+  "Terre Haute, IN": {
+    "latitude": 39.4667025,
+    "longitude": -87.4139119
+  },
+  "Texarkana, TX-AR": {
+    "latitude": 33.4201041,
+    "longitude": -94.0425556
+  },
+  "The Villages, FL": {
+    "latitude": 28.9269978,
+    "longitude": -82.0041758
+  },
+  "Toledo, OH": {
+    "latitude": 41.6529143,
+    "longitude": -83.5378173
+  },
+  "Topeka, KS": {
+    "latitude": 39.049011,
+    "longitude": -95.677556
+  },
+  "Trenton-Princeton, NJ": {
+    "latitude": 40.2826126,
+    "longitude": -74.6862741
+  },
+  "Tucson, AZ": {
+    "latitude": 32.2228765,
+    "longitude": -110.974847
+  },
+  "Tulsa, OK": {
+    "latitude": 36.1563122,
+    "longitude": -95.9927516
+  },
+  "Tuscaloosa, AL": {
+    "latitude": 33.2095614,
+    "longitude": -87.5675258
+  },
+  "Twin Falls, ID": {
+    "latitude": 42.5558542,
+    "longitude": -114.4700684
+  },
+  "Tyler, TX": {
+    "latitude": 32.3512601,
+    "longitude": -95.3010624
+  },
+  "Utica-Rome, NY": {
+    "latitude": 43.08044731026794,
+    "longitude": -75.51684643793435
+  },
+  "Valdosta, GA": {
+    "latitude": 30.8327022,
+    "longitude": -83.2784851
+  },
+  "Vallejo, CA": {
+    "latitude": 38.1040864,
+    "longitude": -122.2566367
+  },
+  "Victoria, TX": {
+    "latitude": 28.8026443,
+    "longitude": -96.9766308
+  },
+  "Visalia, CA": {
+    "latitude": 36.3302284,
+    "longitude": -119.292058
+  },
+  "Waco, TX": {
+    "latitude": 31.5491899,
+    "longitude": -97.1474628
+  },
+  "Walla Walla, WA": {
+    "latitude": 46.2055155,
+    "longitude": -118.5174284
+  },
+  "Warner Robins, GA": {
+    "latitude": 32.6200973,
+    "longitude": -83.606568
+  },
+  "Waterloo-Cedar Falls, IA": {
+    "latitude": 42.4635075,
+    "longitude": -92.31806438149671
+  },
+  "Watertown-Fort Drum, NY": {
+    "latitude": 44.034161499999996,
+    "longitude": -75.84209578048127
+  },
+  "Wausau-Weston, WI": {
+    "latitude": 44.8968829,
+    "longitude": -89.4962529
+  },
+  "Weirton-Steubenville, WV-OH": {
+    "latitude": 40.3978457,
+    "longitude": -80.6220184
+  },
+  "Wenatchee, WA": {
+    "latitude": 47.4234599,
+    "longitude": -120.310349
+  },
+  "Wheeling, WV-OH": {
+    "latitude": 40.1069506,
+    "longitude": -80.8525981
+  },
+  "Wichita, KS": {
+    "latitude": 37.68118565,
+    "longitude": -97.38720322122725
+  },
+  "Wichita Falls, TX": {
+    "latitude": 33.9004572,
+    "longitude": -98.5020777
+  },
+  "Williamsport, PA": {
+    "latitude": 41.2411556,
+    "longitude": -77.0011096
+  },
+  "Wilmington, NC": {
+    "latitude": 34.2257282,
+    "longitude": -77.9447107
+  },
+  "Winchester, VA-WV": {
+    "latitude": 39.1831596,
+    "longitude": -78.3894505
+  },
+  "Winston-Salem, NC": {
+    "latitude": 36.0998131,
+    "longitude": -80.2440518
+  },
+  "Worcester, MA-CT": {
+    "latitude": 42.02702255,
+    "longitude": -72.0100291
+  },
+  "Yakima, WA": {
+    "latitude": 46.601557,
+    "longitude": -120.510842
+  },
+  "York-Hanover, PA": {
+    "latitude": 39.856169,
+    "longitude": -76.9492226
+  },
+  "Yuba City, CA": {
+    "latitude": 39.1404477,
+    "longitude": -121.6169108
+  },
+  "Yuma, AZ": {
+    "latitude": 32.723268,
+    "longitude": -114.6179954
+  },
+  "Alaska": {
+    "latitude": 64.4459613,
+    "longitude": -149.680909
+  },
+  "Alabama": {
+    "latitude": 33.2588817,
+    "longitude": -86.8295337
+  },
+  "Arkansas": {
+    "latitude": 35.2048883,
+    "longitude": -92.4479108
+  },
+  "Arizona": {
+    "latitude": 34.395342,
+    "longitude": -111.763275
+  },
+  "California": {
+    "latitude": 36.7014631,
+    "longitude": -118.755997
+  },
+  "Colorado": {
+    "latitude": 38.7251776,
+    "longitude": -105.607716
+  },
+  "Connecticut": {
+    "latitude": 41.6500201,
+    "longitude": -72.7342163
+  },
+  "District of Columbia": {
+    "latitude": 38.89384735,
+    "longitude": -76.98804281910948
+  },
+  "Delaware": {
+    "latitude": 38.6920451,
+    "longitude": -75.4013315
+  },
+  "Florida": {
+    "latitude": 27.7567667,
+    "longitude": -81.4639835
+  },
+  "Georgia": {
+    "latitude": 32.3293809,
+    "longitude": -83.1137366
+  },
+  "Hawaii": {
+    "latitude": 19.593801499999998,
+    "longitude": -155.42837009716908
+  },
+  "Iowa": {
+    "latitude": 41.9216734,
+    "longitude": -93.3122705
+  },
+  "Idaho": {
+    "latitude": 43.6447642,
+    "longitude": -114.015407
+  },
+  "Illinois": {
+    "latitude": 40.0796606,
+    "longitude": -89.4337288
+  },
+  "Indiana": {
+    "latitude": 40.3270127,
+    "longitude": -86.1746933
+  },
+  "Kansas": {
+    "latitude": 38.27312,
+    "longitude": -98.5821872
+  },
+  "Kentucky": {
+    "latitude": 37.5726028,
+    "longitude": -85.1551411
+  },
+  "Louisiana": {
+    "latitude": 30.8703881,
+    "longitude": -92.007126
+  },
+  "Massachusetts": {
+    "latitude": 42.3788774,
+    "longitude": -72.032366
+  },
+  "Maryland": {
+    "latitude": 39.5162401,
+    "longitude": -76.9382069
+  },
+  "Maine": {
+    "latitude": 45.709097,
+    "longitude": -68.8590201
+  },
+  "Michigan": {
+    "latitude": 43.6211955,
+    "longitude": -84.6824346
+  },
+  "Minnesota": {
+    "latitude": 45.9896587,
+    "longitude": -94.6113288
+  },
+  "Missouri": {
+    "latitude": 38.7604815,
+    "longitude": -92.5617875
+  },
+  "Mississippi": {
+    "latitude": 32.9715285,
+    "longitude": -89.7348497
+  },
+  "Montana": {
+    "latitude": 47.3752671,
+    "longitude": -109.638757
+  },
+  "North Carolina": {
+    "latitude": 35.6729639,
+    "longitude": -79.0392919
+  },
+  "North Dakota": {
+    "latitude": 47.6201461,
+    "longitude": -100.540737
+  },
+  "Nebraska": {
+    "latitude": 41.7370229,
+    "longitude": -99.5873816
+  },
+  "New Hampshire": {
+    "latitude": 43.4849133,
+    "longitude": -71.6553992
+  },
+  "New Jersey": {
+    "latitude": 40.0757384,
+    "longitude": -74.4041622
+  },
+  "New Mexico": {
+    "latitude": 34.5802074,
+    "longitude": -105.996047
+  },
+  "Nevada": {
+    "latitude": 39.5158825,
+    "longitude": -116.853722
+  },
+  "New York": {
+    "latitude": 40.7127281,
+    "longitude": -74.0060152
+  },
+  "Ohio": {
+    "latitude": 40.2253569,
+    "longitude": -82.6881395
+  },
+  "Oklahoma": {
+    "latitude": 34.9550817,
+    "longitude": -97.2684063
+  },
+  "Oregon": {
+    "latitude": 43.9792797,
+    "longitude": -120.737257
+  },
+  "Pennsylvania": {
+    "latitude": 40.9699889,
+    "longitude": -77.7278831
+  },
+  "Rhode Island": {
+    "latitude": 41.7962409,
+    "longitude": -71.5992372
+  },
+  "South Carolina": {
+    "latitude": 33.6874388,
+    "longitude": -80.4363743
+  },
+  "South Dakota": {
+    "latitude": 44.6471761,
+    "longitude": -100.348761
+  },
+  "Tennessee": {
+    "latitude": 35.7730076,
+    "longitude": -86.2820081
+  },
+  "Texas": {
+    "latitude": 31.2638905,
+    "longitude": -98.5456116
+  },
+  "Utah": {
+    "latitude": 39.4225192,
+    "longitude": -111.714358
+  },
+  "Virginia": {
+    "latitude": 37.1232245,
+    "longitude": -78.4927721
+  },
+  "Vermont": {
+    "latitude": 44.5990718,
+    "longitude": -72.5002608
+  },
+  "Washington": {
+    "latitude": 38.8950368,
+    "longitude": -77.0365427
+  },
+  "Wisconsin": {
+    "latitude": 44.4308975,
+    "longitude": -89.6884637
+  },
+  "West Virginia": {
+    "latitude": 38.4758406,
+    "longitude": -80.8408415
+  },
+  "Wyoming": {
+    "latitude": 43.1700264,
+    "longitude": -107.568534
+  },
+  "Puerto Rico": {
+    "latitude": 18.2247706,
+    "longitude": -66.4858295
+  }
+}
