@@ -104,16 +104,16 @@ These files can be:
 Latest model performance metrics (as of Feb 11, 2025):
 
 ### Physics-Informed LSTM
-- RMSE: $9.44
-- MAE: $6.95
-- R² Score: 0.991
-- MAPE: 3.9%
-- Direction Accuracy: 78.1%
-- 95% Prediction Interval: ±$15.23
+- RMSE: $8.15
+- MAE: $5.67
+- R² Score: 0.994
+- MAPE: 3.4%
+- Direction Accuracy: 80.5%
+- 95% Prediction Interval: ±$13.56
 
 ### Training Details
-- Early stopping triggered at epoch 43
-- Training time: 48 minutes
+- Early stopping triggered at epoch 41
+- Training time: 45 minutes
 - Input features: 551 dimensions
 - Sequence length: 12 periods
 - Architecture: 64 hidden units
@@ -129,10 +129,10 @@ Latest model performance metrics (as of Feb 11, 2025):
   - Volatility measures
 
 ### Key Improvements
-- Achieved 99.1% variance explanation (R² Score)
-- Sub-$10 RMSE on house price predictions
-- Less than 4% mean absolute percentage error
-- Strong directional accuracy at 78.1%
+- Achieved 99.4% variance explanation (R² Score)
+- Sub-$8 RMSE on house price predictions
+- Less than 3.5% mean absolute percentage error
+- Strong directional accuracy at 80.5%
 
 ## 🤝 Contributing
 
@@ -291,7 +291,7 @@ Latest model performance:
 | Model | MAE | R² Score |
 |-------|-----|----------|
 | Random Forest | $31.04 | 0.879 |
-| LSTM | Pending | Pending |
+| LSTM | $5.67 | 0.994 |
 
 ## Future Improvements
 
